@@ -22,6 +22,7 @@ public class Main {
         return (int) set.toArray()[0];
     }
 
+    // Method main to run java program
         public static void main (String [] args){
 
             int [] array = {3, 5, 4, 5, 6, 6, 8, 3, 4};
